@@ -25,5 +25,5 @@ Currently preparing for opportunities in Toronto, Canada.
 ---
 
 ### 📫 Connect
-- [LinkedIn](www.linkedin.com/in/orçun-yörük-355b52147)  
+- [LinkedIn](https://linkedin.com/in/orçun-yörük-355b52147)  
 - [GitHub](https://github.com/OrcnTester)  
