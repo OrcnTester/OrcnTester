@@ -16,11 +16,22 @@ Currently preparing for opportunities in Toronto, Canada.
 
 ---
 
-### ⭐ Featured Projects
-- **Esdoor – Sales Contract PDF API** → Spring Boot service that generates contract PDFs.  
-- **Esdoor – Measurement Form PDF** → Dynamic measurement → printable PDFs with logo.  
-- **Esdoor – PDF Utils** → Reusable PDF helpers (fonts, header/footer, pagination).  
-- **Design Patterns Showcase** → 5+ patterns with tests & UML diagrams.  
+### ⭐ Featured Projects## 🌟 Featured Projects
+
+Here are some selected repositories that showcase my work with Java, Spring Boot, and PDF automation:
+
+- [**esdoor-sales-contract-pdf**](https://github.com/OrcnTester/esdoor-sales-contract-pdf)  
+  Spring Boot REST API that generates sales contract PDFs (with TR font support).
+
+- [**esdoor-measurement-form-pdf**](https://github.com/OrcnTester/esdoor-measurement-form-pdf)  
+  Dynamic measurement form → PDF service, focused on manufacturing workflows.
+
+- [**esdoor-pdf-utils**](https://github.com/OrcnTester/esdoor-pdf-utils)  
+  Reusable helpers for Apache PDFBox: TR font loader, header/footer, page numbering.
+
+- [**design-patterns-showcase**](https://github.com/OrcnTester/design-patterns-showcase)  
+  Java design patterns (Singleton, Factory, Strategy, Observer, Builder) with simple demos.
+
 
 ---
 
