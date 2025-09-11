@@ -1,40 +1,74 @@
-<h1 align="left">Hi, I'm Orçun — Spring Boot Developer</h1>
-
-**REST APIs • PDF Automation • Design Patterns**  
-I build clean, testable services with Spring Boot, focusing on manufacturing workflows.  
-Currently preparing for opportunities in Toronto, Canada.  
-
----
-
-### 🔧 Tech Stack
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
-![Maven](https://img.shields.io/badge/Maven-🧱-blue)
-![Docker](https://img.shields.io/badge/Docker-🐳-blue)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-lightgrey)
-![AWS](https://img.shields.io/badge/AWS-Basic-yellow)
+<!-- Banner -->
+<p align="center">
+  <img src="A_2D_digital_graphic_design_banner_showcases_profe.png" alt="Orçun | Full-Stack SaaS Developer" width="100%">
+</p>
 
 ---
 
-### ⭐ Featured Projects## 🌟 Featured Projects
-
-Here are some selected repositories that showcase my work with Java, Spring Boot, and PDF automation:
-
-- [**esdoor-sales-contract-pdf**](https://github.com/OrcnTester/esdoor-sales-contract-pdf)  
-  Spring Boot REST API that generates sales contract PDFs (with TR font support).
-
-- [**esdoor-measurement-form-pdf**](https://github.com/OrcnTester/esdoor-measurement-form-pdf)  
-  Dynamic measurement form → PDF service, focused on manufacturing workflows.
-
-- [**esdoor-pdf-utils**](https://github.com/OrcnTester/esdoor-pdf-utils)  
-  Reusable helpers for Apache PDFBox: TR font loader, header/footer, page numbering.
-
-- [**design-patterns-showcase**](https://github.com/OrcnTester/design-patterns-showcase)  
-  Java design patterns (Singleton, Factory, Strategy, Observer, Builder) with simple demos.
-
+# 👋 Hi, I'm Orçun! 🚀  
+**Full-Stack SaaS Developer** | Passionate about building scalable web applications and modern SaaS products.
 
 ---
 
-### 📫 Connect
-- [LinkedIn](https://linkedin.com/in/orçun-yörük-355b52147)  
-- [GitHub](https://github.com/OrcnTester)  
+## **🚀 About Me**
+
+I'm a developer passionate about **building scalable SaaS platforms** and **modern web applications**.  
+Recently, I built **MatchMade**, a **Next.js + Stripe + Firebase** ticketing platform, where I gained hands-on experience in **full-stack SaaS development**.
+
+💡 I’m currently **open to remote roles** and **freelance projects** where I can contribute to:
+- Building **modern web apps**
+- Integrating **secure payment solutions**
+- Developing **end-to-end SaaS products**
+
+---
+
+## **🎟 Featured Project — MatchMade**
+
+**MatchMade** — A **ticketing platform** with real-time Firestore updates, secure Stripe payment integration, and an admin dashboard.
+
+**🔹 Features:**
+- **Frontend** → Next.js • React.js • TypeScript • Tailwind CSS v4
+- **Backend** → Firebase Auth, Firestore, Hosting
+- **Payments** → Stripe Checkout, Webhooks & Payment API
+- **CI/CD** → Automated deployment on **Vercel**
+
+🔗 **[Live Demo](https://matchmade-demo.vercel.app)**  
+📦 **[Source Code](https://github.com/OrcnTester/matchmade-stripe-firebase-demo)**
+
+---
+
+## **🛠 Tech Stack & Skills**
+
+| **Category**   | **Technologies** |
+|---------------|-------------------|
+| **Frontend**  | Next.js • React.js • TypeScript • Tailwind CSS |
+| **Backend**   | Spring Boot • REST APIs • PDF Automation |
+| **Database**  | Firebase • Firestore • PostgreSQL |
+| **Payments**  | Stripe Checkout • Webhooks • Payment API |
+| **DevOps**    | Vercel • GitHub Actions • CI/CD • Railway • Heroku |
+| **Other**     | Docker • JUnit • Maven • iText • PDFBox |
+
+---
+
+## **📌 Current Focus**
+- 🔹 Building **scalable SaaS platforms** with Next.js & Firebase  
+- 🔹 Creating **secure payment flows** with Stripe  
+- 🔹 Designing **REST APIs** & PDF automation for manufacturing  
+- 🔹 Preparing for **Toronto’s tech market** & **remote SaaS opportunities**
+
+---
+
+## **📫 Let's Connect!**
+
+- 💼 [**LinkedIn**](www.linkedin.com/in/orcun-yoruk-355b52147)  
+- 💻 [**GitHub**](https://github.com/OrcnTester)  
+- 📧 **orcun.dev@gmail.com**
+
+---
+
+## **✨ Fun Side Projects**
+- 🎵 **AI Music Generator** → Auto-generates demo tracks using **gTTS + pydub**  
+- 📐 **PDF Automation** → Automating order forms & workflows for **Esdoor**  
+- 🎮 **RS36S Modding** → Porting indie games & optimizing performance
+
+---
