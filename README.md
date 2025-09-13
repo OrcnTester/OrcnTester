@@ -62,7 +62,7 @@ Recently, I built **MatchMade**, a **Next.js + Stripe + Firebase** ticketing pla
 
 - 💼 [**LinkedIn**](www.linkedin.com/in/orcun-yoruk-355b52147)  
 - 💻 [**GitHub**](https://github.com/OrcnTester)  
-- 📧 **orcun.dev@gmail.com**
+- 📧 **orcnyoruk@gmail.com**
 
 ---
 
