@@ -1,6 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img src="A_2D_digital_graphic_design_banner_showcases_profe.png" alt="Orçun | Full-Stack SaaS Developer" width="100%">
+<p align="left">
+  <img src="OrcnTester.png" alt="Orçun | Full-Stack SaaS Developer" width="30%">
 </p>
 
 ---
